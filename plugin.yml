@@ -1,0 +1,6 @@
+main: fr.swoking.AndoraUnlimitedSlot.Main
+name: AndoraUnlimitedSlot
+version: 0.0.1
+author: Swoking
+description: Donne un nombre de slot illimité au serveur
+commands:
